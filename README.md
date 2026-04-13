@@ -42,10 +42,9 @@ following if i get more goals
 ---
 
 ## 📊 Security Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[sreasen]&show_icons=true&theme=tokyonight)
-](https://github-readme-stats.vercel.app/api?username=sraesen&show_icons=true&theme=tokyonight)
+[![sraesen's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sraesen&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ### 🏆 Platform Rankings
-[![TryHackMe Badge](https://tryhackme-badges.vercel.app/api/user/sraesen)](https://tryhackme.com/p/sraesen)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/sennr.png)](https://tryhackme.com/p/sennr)
 
 ---
 
