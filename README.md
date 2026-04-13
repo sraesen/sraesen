@@ -1,21 +1,24 @@
 # Hi, I'm Senn 🛡️
 
+> 🎯 **Current Focus:** [500 Rooms Challenge](https://github.com/sraesen/TryHackMe-Roadmap) & Creating high-quality Write-ups.
+
 ### 👨‍💻 Aspiring Cyber Security Professional
-I am currently a student focusing on Osint, AI and red teaming. I use this space to document my technical growth, share my security research, and keep myself accountable to my learning goals.
+I am currently a student focusing on OSINT, AI, and Red Teaming. I use this space to document my technical growth, share my security research, and keep myself accountable to my learning goals.
 
 ---
 
 ## 🎯 2026 Mission Goals
-- [ ] complete the 500 introduction roadmap on github
+- [ ] **[500 Rooms Challenge](https://github.com/sraesen/TryHackMe-Roadmap)** – Systematically completing 500 rooms on TryHackMe.
+`[█░░░░░░░░░░░░░░░░░░░░] 6%`
+- [ ] **Write-up Pipeline** – Regularly release walkthroughs for TryHackMe, PortSwigger, and HTB.
+- [ ] **Master Python for Cyber** (Focus: Automating Nmap & Scapy)
+`[░░░░░░░░░░░░░░░░░░░░] 2%`
+- [ ] Reach **Top 1%** on TryHackMe globally
+- [ ] Reach **Top 200** on TryHackMe in the Netherlands 🇳🇱
 - [ ] Complete the [TryHackMe AI Security Path](https://tryhackme.com/path/outline/aisecurity)
-- [ ] regularly release or make a walktrough for tryhackme, portswigger and hacktheboxrooms
-- [ ] reach top 1% on tryhackme globally
-- [ ] reach top 200 on tryhackme in the Netherlands
-- [ ] learn how to use python
 
-## 🎯 2027 mission goals
-- [ ] reach the finals of wordskills netherlands in cybersecurity
-following if i get more goals
+## 🎯 2027 Mission Goals
+- [ ] Reach the finals of **WorldSkills Netherlands** in Cybersecurity
 
 ---
 
@@ -32,19 +35,20 @@ following if i get more goals
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 💡 *Currently Learning*
 
 ### 🔍 Security & Pentesting Tools
-![Nmap](https://img.shields.io/badge/Nmap-006600?style=for-the-badge&logo=nmap&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-006600?style=for-the-badge&logo=target&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Maltego](https://img.shields.io/badge/Maltego-FF6600?style=for-the-badge&logo=maltego&logoColor=white)
-![JohnTheRipper](https://img.shields.io/badge/John_The_Ripper-000000?style=for-the-badge&logo=johntheripper&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=thc&logoColor=white)
+![Maltego](https://img.shields.io/badge/Maltego-FF6600?style=for-the-badge&logo=hcl&logoColor=white)
+![JohnTheRipper](https://img.shields.io/badge/John_The_Ripper-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=octopusdeploy&logoColor=white)
 
 ---
 
-## 📊 Security Stats
-[![sraesen's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sraesen&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-### 🏆 Platform Rankings
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/sennr.png)](https://tryhackme.com/p/sennr)
+## 📊 Activity & Rankings
+
+| GitHub Metrics | TryHackMe Profile |
+| :--- | :--- |
+| [![sraesen's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sraesen&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![TryHackMe](https://img.shields.io/badge/TryHackMe-sennr-blue?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/sennr) |
 
 ---
 
