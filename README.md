@@ -16,6 +16,7 @@ I am currently a student focusing on OSINT, AI, and Red Teaming. I use this spac
 - [ ] Reach **Top 1%** on TryHackMe globally
 - [ ] Reach **Top 200** on TryHackMe in the Netherlands 🇳🇱
 - [ ] Complete the [TryHackMe AI Security Path](https://tryhackme.com/path/outline/aisecurity)
+- [ ] release my own rooms on tryhackme( will mostly be OSINT stuff and maybe other stuff)
 
 ## 🎯 2027 Mission Goals
 - [ ] Reach the finals of **WorldSkills Netherlands** in Cybersecurity
