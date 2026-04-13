@@ -1,5 +1,7 @@
 # Hi, I'm Senn 🛡️
 
+[![Website](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sraesen.github.io)
+
 > 🎯 **Current Focus:** [500 Rooms Challenge](https://github.com/sraesen/TryHackMe-Roadmap) & Creating high-quality Write-ups.
 
 ### 👨‍💻 Aspiring Cyber Security Professional
