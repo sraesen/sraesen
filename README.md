@@ -1,6 +1,6 @@
 # Hi, I'm Senn 🛡️
 
-> 🎯 **Current Focus:** [500 Rooms Challenge](https://github.com/sraesen/TryHackMe-Roadmap) & Creating high-quality Write-ups.
+> 🎯 **Current Focus:** completing the ai security path
 
 ### 👨‍💻 Aspiring Cyber Security Professional
 I am currently a student focusing on OSINT, AI, and Red Teaming. I use this space to document my technical growth, share my security research, and keep myself accountable to my learning goals.
