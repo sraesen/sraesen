@@ -15,6 +15,7 @@ I am currently a student focusing on OSINT, AI, and Red Teaming. I use this spac
 - [ ] Reach **Top 1%** on TryHackMe globally
 - [ ] Reach **Top 200** on TryHackMe in the Netherlands 🇳🇱
 - [ ] Complete the [TryHackMe AI Security Path](https://tryhackme.com/path/outline/aisecurity)
+- [ ] contribute to open source projects or relase my own projects
 
 
 ## 🎯 2027 Mission Goals
@@ -46,9 +47,10 @@ I am currently a student focusing on OSINT, AI, and Red Teaming. I use this spac
 
 ## 📊 Activity & Rankings
 
-| GitHub Metrics | TryHackMe Profile |
-| :--- | :--- |
-| [![sraesen's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sraesen&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![TryHackMe](https://img.shields.io/badge/TryHackMe-sennr-blue?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/sennr) |
+| GitHub Metrics | TryHackMe Profile | roadmap's
+| :--- | :--- |:---|
+| [![sraesen's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sraesen&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![TryHackMe](https://img.shields.io/badge/TryHackMe-sennr-blue?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/sennr) |[![roadmap.sh](https://roadmap.sh/card/tall/683738991330a00f3f224376?variant=dark)](https://roadmap.sh)
+
 
 ---
 
