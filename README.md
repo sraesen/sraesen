@@ -13,7 +13,7 @@ I am currently a student focusing on OSINT, AI, and Red Teaming. I use this spac
 - [ ] **Master Python for Cyber** (Focus: Automating Nmap & Scapy)
 `[░░░░░░░░░░░░░░░░░░░░] 2%`
 - [X] Reach **Top 1%** on TryHackMe globally
-- [ ] Reach **Top 200** on TryHackMe in the Netherlands 🇳🇱
+- [ ] Reach **Top 300** on TryHackMe in the Netherlands 🇳🇱
 - [X] Complete the [TryHackMe AI Security Path](https://tryhackme.com/path/outline/aisecurity)
 - [ ] contribute to open source projects or relase my own projects
 
