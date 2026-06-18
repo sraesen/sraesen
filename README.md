@@ -10,8 +10,6 @@ I am currently a student focusing on OSINT, AI, and Red Teaming. I use this spac
 ## 🎯 2026 Mission Goals
 - [ ] **[500 Rooms Challenge](https://github.com/sraesen/TryHackMe-Roadmap)** – Systematically completing 500 rooms on TryHackMe.
 `[█░░░░░░░░░░░░░░░░░░░░] 6%`
-- [ ] **Master Python for Cyber** (Focus: Automating Nmap & Scapy)
-`[░░░░░░░░░░░░░░░░░░░░] 2%`
 - [X] Reach **Top 1%** on TryHackMe globally
 - [X] Reach **Top 300** on TryHackMe in the Netherlands 🇳🇱
 - [X] Complete the [TryHackMe AI Security Path](https://tryhackme.com/path/outline/aisecurity)
@@ -21,6 +19,8 @@ I am currently a student focusing on OSINT, AI, and Red Teaming. I use this spac
 ## 🎯 2027 Mission Goals
 - [ ] Reach the finals of **WorldSkills Netherlands** in Cybersecurity
 - [ ] **Write-up Pipeline** – Regularly release walkthroughs for TryHackMe, PortSwigger, and HTB.
+- [ ] **Master Python for Cyber** (Focus: Automating Nmap & Scapy)
+`[░░░░░░░░░░░░░░░░░░░░] 2%`
 ---
 
 ## 🛠️ My Lab & Toolkit
