@@ -49,7 +49,7 @@ I am currently a student focusing on OSINT, AI, and Red Teaming. I use this spac
 
 | GitHub Metrics | TryHackMe Profile | roadmap's
 | :--- | :--- |:---|
-| [![sraesen's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sraesen&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![TryHackMe](https://img.shields.io/badge/TryHackMe-sennr-blue?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/sennr) |[![roadmap.sh](https://roadmap.sh/card/wide/683738991330a00f3f224376?variant=dark&roadmaps=cyber-security%2Clinux%2Cfull-stack%2Cai-red-teaming)](https://roadmap.sh)
+| [![sraesen's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sraesen&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![TryHackMe](https://img.shields.io/badge/TryHackMe-sennr-blue?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/sennr) |[![roadmap.sh](https://roadmap.sh/card/wide/683738991330a00f3f224376?variant=dark&roadmaps=shell-bash%2Clinux)](https://roadmap.sh)
 
 
 ---
