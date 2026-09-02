@@ -13,7 +13,7 @@ I am currently a student focusing on OSINT, AI, and Red Teaming. I use this spac
 - [X] Reach **Top 1%** on TryHackMe globally
 - [X] Reach **Top 300** on TryHackMe in the Netherlands 🇳🇱
 - [X] Complete the [TryHackMe AI Security Path](https://tryhackme.com/path/outline/aisecurity)
-- [ ] contribute to open source projects or relase my own projects
+- [X] contribute to open source projects or relase my own projects
 
 
 ## 🎯 2027 Mission Goals
