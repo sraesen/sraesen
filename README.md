@@ -1,6 +1,6 @@
 # Hi, I'm Senn 🛡️
 
-> 🎯 **Current Focus:** completing the ai security path
+> 🎯 **Current Focus:**
 
 ### 👨‍💻 Aspiring Cyber Security Professional
 I am currently a student focusing on OSINT, AI, and Red Teaming. I use this space to document my technical growth, share my security research, and keep myself accountable to my learning goals.
